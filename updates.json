@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 605765406,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 271039922,
+          "is_bot": false,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 271039922,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "type": "private"
+        },
+        "date": 1572378630,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 605765407,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 271039922,
+          "is_bot": false,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 271039922,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "type": "private"
+        },
+        "date": 1572379262,
+        "text": "'эй"
+      }
+    },
+    {
+      "update_id": 605765408,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 271039922,
+          "is_bot": false,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 271039922,
+          "first_name": "Ru",
+          "last_name": "M",
+          "username": "fourru",
+          "type": "private"
+        },
+        "date": 1572382594,
+        "text": "aaaa"
+      }
+    }
+  ]
+}
